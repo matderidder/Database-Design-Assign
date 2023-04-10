@@ -1,0 +1,2 @@
+1. Make playlist a own table seperate from user and allow more of it which connect to users
+2. Add account type to the user table as an attirbute and give distinctions off of it
